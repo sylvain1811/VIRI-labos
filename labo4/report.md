@@ -1,12 +1,12 @@
 ---
 titlepage: true
-title: "Labo 4 : Slicing"
-subtitle: VIRI
+title: "Laboratoire 4 : Slicing"
+subtitle: "Virtualisation de réseaux informatiques"
 author: [Sylvain Renaud]
 date: \today
 toc: true
 toc-own-page: true
-logo: "logo-hes-so.jpg"
+logo: "../logo-hes-so.jpg"
 logo-width: 200
 ---
 

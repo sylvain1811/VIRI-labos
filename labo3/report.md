@@ -1,4 +1,19 @@
-## 
+---
+titlepage: true
+title: "Laboratoire 3 : ..."
+subtitle: "Virtualisation de réseaux informatiques"
+author: [Sylvain Renaud]
+date: \today
+toc: true
+toc-own-page: true
+logo: "../logo-hes-so.jpg"
+logo-width: 200
+---
+
+#
+
+##
+
 Ping h1 -> h2 : not working
 
 ```bash
